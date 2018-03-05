@@ -48,7 +48,7 @@ config :hello,
   bool_var: {:boolean, "${BOOL_VAR}"}
 ```
 
-#### 2. Copy `typonf.sh` into `rel/hooks/typonf.sh`
+#### 2. Copy [`typonf.sh`](typonf.sh) into `rel/hooks/typonf.sh`
 
 ```bash
 # this code snippet is here so you don't miss it
